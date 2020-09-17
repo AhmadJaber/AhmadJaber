@@ -2,7 +2,7 @@
 
 ### I'm a Software Developer. I enjoy working with include ReactJS, NodeJS, Jamstack (JavaScript, APIs + Markup) and GraphQL
 
-- 🔭 I’m currently working on todoist_clone app
+- 🔭 I’m currently working on lireddit
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on opensource projects
 - 💬 Ask me about Javascript

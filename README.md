@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on opensource projects
 - 💬 Ask me about Javascript
 - 📫 How to reach me: ash1kahmadjaber@gmail.com
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Motivation is what gets you started but habit is what keeps you going
 
 <h3 align="left">Connect with me:</h3>

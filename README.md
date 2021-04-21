@@ -3,7 +3,7 @@
 ### I'm a Software Developer. Love JaveScript. I enjoy working with ReactJS, NodeJS, Jamstack, GraphQL. Love to play Age of Empires-2 if i have time.
 
 - 🔭 I’m currently working on otterdev_project
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning backend stuff
 - 👯 I’m looking to collaborate on opensource projects
 - 💬 Ask me about Javascript
 - 📫 How to reach me: ash1kahmadjaber@gmail.com

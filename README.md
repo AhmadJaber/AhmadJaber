@@ -2,7 +2,7 @@
 
 ### I'm a Software Developer. Love JaveScript. I enjoy working with ReactJS, NodeJS, Jamstack, GraphQL. Love to play Age of Empires-2 if i have time.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmadJaber&label=Profile%20views&color=blueviolet&style=flat" alt="ahmadjaber" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmadJaber&label=Profile%20views&color=blueviolet&style=flat" alt="ahmadjaber" /> </p> -->
 
 - 🔭 I’m currently working on otterdev_project
 - 🌱 I’m currently learning backend stuff

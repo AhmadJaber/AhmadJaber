@@ -5,9 +5,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmadJaber&label=Profile%20views&color=blueviolet&style=flat" alt="ahmadjaber" /> </p> -->
 
 - 🔭 I’m currently working on otterdev_project
-- 🌱 I’m currently learning backend stuff
+- 🌱 I’m currently learning graphql, prisma, postgresql & nestjs
 - 👯 I’m looking to collaborate on opensource projects
-- 💬 Ask me about Javascript
+- 💬 Ask me about Javascript React NextJS
 - 📫 How to reach me: ash1kahmadjaber@gmail.com
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Motivation is what gets you started but habit is what keeps you going

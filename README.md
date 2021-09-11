@@ -37,7 +37,7 @@
 </p> -->
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadJaber&show_icons=true&locale=en&theme=react" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=AhmadJaber&show_icons=true&locale=en&theme=react" width="350"></a>
 </p>
 
 <br />

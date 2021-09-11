@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashik Ahmad Jaber 💻</h1>
+<h1 align="center">Hi 👋, I'm Ashik Ahmad Jaber 👨‍💻</h1>
 
 <p align="center">
   A Software Developer. Love JaveScript. I enjoy working with ReactJS, NodeJS, Jamstack, GraphQL. Love to play Age of Empires-2 if i have time.
@@ -21,10 +21,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmadJaber&label=Profile%20views&color=blueviolet&style=flat" alt="ahmadjaber" /> </p> -->
 
 <!-- - 🔭 I’m currently working on otterate
-- 🌱 I’m currently learning aws infrastructure
+- 🌱 I’m currently learning & applying nestjs graphql
 - 👯 I’m looking to collaborate on opensource projects
 - 💬 Ask me about Javascript React NextJS
-- 📫 How to reach me: ash1kahmadjaber@gmail.com
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Motivation is what gets you started but habit is what keeps you going -->
 
@@ -40,9 +39,40 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=AhmadJaber&show_icons=true&locale=en&theme=react" width="350"></a>
 </p>
 
+<p align='center'>
+  🧰 Tools & Languages<br/><br/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:ash1kahmadjaber@gmail.com'>ash1kahmadjaber@gmail.com</a>
+</p>
+
+<br />
+<details>
+  <summary >👨‍💻</summary>
+  
+#### What's Going on recently....
+  
+- 🔭 I’m currently working on otterate
+- 🌱 I’m currently learning & applying nestjs graphql
+- 👯 I’m looking to collaborate on opensource projects
+- 💬 Ask me about Javascript React NextJS
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: Motivation is what gets you started but habit is what keeps you going
+</details>
 <br />
 
-<h3 align="left">Languages and Tools:</h3>
+<!--
+<h5 align="center">Languages and Tools:</h5>
 <p align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -160,6 +190,7 @@
     />
   </a>
 </p>
+-->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadJaber&show_icons=true&locale=en&layout=compact" alt="ahmadjaber" /></p> -->
 <!--

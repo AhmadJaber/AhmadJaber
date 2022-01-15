@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ashik Ahmad Jaber 👨‍💻</h1>
 
+<h4 align='center'>
+  Junior FullStack Engineer 
+</h4>
+<hr />
+
 <p align="center">
-  A Software Developer. Love JaveScript. I enjoy working with ReactJS, NodeJS, Jamstack, GraphQL. Love to play Age of Empires-2 if i have time.
+  Love the challenges and advantages of Working with ReactJS, NodeJS, JamStack. DevOps enthusiast, love working with aws infrastructure.
 </p>
 
 <p align='center'>
@@ -57,19 +62,22 @@
   📫 How to reach me: <a href='mailto:ash1kahmadjaber@gmail.com'>ash1kahmadjaber@gmail.com</a>
 </p>
 
-<br />
+<!--
 <details>
-  <summary >👨‍💻</summary>
-  
-#### What's Going on recently....
-  
-- 🔭 I’m currently working on otterate
-- 🌱 I’m currently learning & applying nestjs graphql
+  <summary >👨‍💻</summary>  
+</details> -->
+
+<br />
+<h4>
+  What's Going on recently.... 
+</h4>
+
+- 🔭 I’m currently working on a Big JamStack Project which i am deploying in Azure.
+- 🌱 I’m currently learning AWS infrastructure with CDK
 - 👯 I’m looking to collaborate on opensource projects
 - 💬 Ask me about Javascript React NextJS
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: Motivation is what gets you started but habit is what keeps you going
-</details>
+- 🥅 2022 Goals: Contribute more to Open Source projects
+
 <br />
 
 <!--

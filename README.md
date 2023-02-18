@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ashik Ahmad Jaber 👨‍💻</h1>
+<h1 align="center">
+  Hi 👋, I'm Ashik Ahmad Jaber 
+  <img src="https://em-content.zobj.net/thumbs/160/emojidex/112/male-technologist_1f468-200d-1f4bb.png" width="40" height="40"/>
+</h1>
 
 <h4 align='center'>
   Junior FullStack Engineer 

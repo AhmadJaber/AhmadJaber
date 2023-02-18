@@ -41,7 +41,7 @@
 </p> -->
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=AhmadJaber&show_icons=true&locale=en&theme=react" width="40%"></a>
+<!--   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=AhmadJaber&show_icons=true&locale=en&theme=react" width="40%"></a> -->
   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadJaber&theme=react&hide_border=true" />
 </p>
 
@@ -76,11 +76,11 @@
   What's Going on recently.... 
 </h4>
 
-- 🔭 I’m currently working on a Big JamStack Project which i am deploying in Azure.
-- 🌱 I’m currently learning AWS infrastructure with CDK
+- 🔭 I’m currently working on a project based on MedusaJS(The open source shopify alternative)
+- 🌱 I’m currently learning Astro, Svelete, MedusJS.
 - 👯 I’m looking to collaborate on opensource projects
 - 💬 Ask me about Javascript React NextJS
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: 1.Contribute more to Open Source projects, 2.Run 25 kilometers every week.
 
 <br />
 

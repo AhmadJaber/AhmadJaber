@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align='center'>
-  Junior FullStack Engineer 
+  Front End Engineer 
 </h4>
 <hr />
 

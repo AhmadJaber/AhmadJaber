@@ -8,9 +8,9 @@
 </h4>
 <hr />
 
-<p align="center">
+<!-- <p align="center">
   Love the challenges and advantages of Working with ReactJS, NodeJS, JamStack. DevOps enthusiast, love working with aws infrastructure.
-</p>
+/</p> -->
 
 <p align='center'>
 
@@ -28,21 +28,6 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmadJaber&label=Profile%20views&color=blueviolet&style=flat" alt="ahmadjaber" /> </p> -->
 
-<!-- - 🔭 I’m currently working on otterate
-- 🌱 I’m currently learning & applying nestjs graphql
-- 👯 I’m looking to collaborate on opensource projects
-- 💬 Ask me about Javascript React NextJS
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: Motivation is what gets you started but habit is what keeps you going -->
-
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ashik-ahmad-jaber-993207143/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashik ahmad jaber" height="30" width="40" /></a>
-  <a href="https://twitter.com/@ash1kjaber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@ash1kjaber" height="30" width="40" /></a>
-  <a href="https://codepen.io/ahmadjaber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ahmadjaber" height="30" width="40" /></a>
-  <a href="https://codesandbox.com/ahmadjaber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ahmadjaber" height="30" width="40" /></a>
-</p> -->
-
 <p align='center'>
 <!--   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=AhmadJaber&show_icons=true&locale=en&theme=react" width="40%"></a> -->
   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadJaber&theme=react&hide_border=true" />
@@ -59,6 +44,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />&nbsp;
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />&nbsp;
   <img src="https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nest.js" />&nbsp;
+  <img src="https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=grap" />&nbsp;
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=563D7C" />&nbsp;
   <img src="https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma&logoColor=563D7C" />&nbsp;
   <img src="https://img.shields.io/badge/Amazon_AWS-05122A?style=flat&logo=amazon-aws&logoColor=white" />&nbsp;

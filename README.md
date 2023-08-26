@@ -71,8 +71,8 @@
   What's Going on recently.... 
 </h4>
 
-- 🔭 I’m currently working on a project based on MedusaJS(The open source shopify alternative)
-- 🌱 I’m currently learning Astro, Svelete, MedusJS.
+- 🔭 I’m currently working on Astro, Svelte, Nextjs, Bigcommerece, Sanity.
+- 🌱 I’m currently learning Frontend Advance concepts.
 - 👯 I’m looking to collaborate on opensource projects
 - 💬 Ask me about Javascript React NextJS
 - 🥅 2023 Goals: 1.Contribute more to Open Source projects, 2.Run 25 kilometers every week.

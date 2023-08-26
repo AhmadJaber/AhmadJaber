@@ -50,41 +50,25 @@
 
 
 <p align='center'>
-🛠 &nbsp;Tech Stack
-<!--   🧰 Tools & Languages<br/><br/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQl-E10098?style=flat&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" /> -->
-
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Svelte](https://img.shields.io/badge/Svelte-05122A?style=flat&logo=svelte&logoColor=FF3E00)&nbsp;
-![Astro](https://img.shields.io/badge/Astro-05122A?logo=astro&logoColor=fff&style=flat)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nest.js)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=563D7C)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma&logoColor=563D7C)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind&logoColor=563D7C)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SCSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+🛠 &nbsp;Tech Stack<br/><br/>
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />&nbsp;
+  <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js" />&nbsp;
+  <img src="https://img.shields.io/badge/Svelte-05122A?style=flat&logo=svelte&logoColor=FF3E00" />&nbsp;
+  <img src="https://img.shields.io/badge/Astro-05122A?logo=astro&logoColor=fff&style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />&nbsp;
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nest.js" />&nbsp;
+  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=563D7C" />&nbsp;
+  <img src="https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma&logoColor=563D7C" />&nbsp;
+  <img src="https://img.shields.io/badge/Amazon_AWS-05122A?style=flat&logo=amazon-aws&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind&logoColor=563D7C" />&nbsp;
+  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" />&nbsp;
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />&nbsp;
+  <img src="https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SCSS3&logoColor=1572B6" />&nbsp;
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />&nbsp;
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />&nbsp;
 </p>
 
 <p align='center'>

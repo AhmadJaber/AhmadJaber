@@ -23,19 +23,7 @@
 
 ## 📖 About Me
 
-My interest in engineering started with hands-on experimentation using **Arduino**, where I learned how small changes in code could produce visible, real-world results. That experience shaped how I approach software today: focusing on understanding problems clearly and building practical solutions.
-
-I work primarily on the frontend while staying comfortable across the stack. Most of my work involves building web applications that are easy to maintain, performant, and pleasant to use.
-
----
-
-## 🤖 AI Integration
-
-I use AI where it adds real value to products.
-
-- Building features with **Vercel AI SDK** and **OpenAI APIs**, such as streaming responses and user-facing AI tools.
-- Implementing data-aware interactions (RAG-style patterns) so users can work with their own content inside applications.
-- Focusing on use cases like content assistance and workflow automation, not demos or experiments.
+Frontend-focused full-stack engineer with a background in hands-on experimentation (starting with **Arduino**) and a strong interest in building practical, maintainable web applications. I primarily work on frontend architecture while staying comfortable across the stack.
 
 ---
 
@@ -44,6 +32,16 @@ I use AI where it adds real value to products.
 - **Next.js:** App Router, React Server Components, and server-first patterns.
 - **Astro:** Content-focused sites using Islands Architecture and minimal client-side JavaScript.
 - **Jamstack & CMS:** Headless workflows with **Sanity**, **Contentful**, and **BigCommerce**.
+
+---
+
+## 🤖 AI Integration
+
+I use AI where it adds clear product value.
+
+- Building features with **Vercel AI SDK** and **OpenAI APIs**, including streaming responses and user-facing AI tools.
+- Implementing data-aware interactions (RAG-style patterns) so users can work directly with their own content.
+- Focusing on content assistance and workflow automation, not demos or experiments.
 
 ---
 
